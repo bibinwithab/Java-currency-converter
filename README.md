@@ -3,8 +3,8 @@ A small repo for a java currency converter project and a space to learn java swi
 
 <p>
   This program runs a GUI that converts INR to USD and vice-versa 
-</p>
-# How to run
+
+## How to run
 ```
 javac Main.java
 ```
