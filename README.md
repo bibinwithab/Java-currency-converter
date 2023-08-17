@@ -7,8 +7,5 @@ A small repo for a java currency converter project and a space to learn java swi
 
 ## How to run
 ```
-javac Main.java
-```
-```
 java Main
 ```
