@@ -72,7 +72,7 @@ public class Main{
         frame.setSize(350,250);
         frame.setLayout(null);
         frame.setVisible(true);
-        frame.getContentPane().setBackground(new Color(222, 13, 342, 0));
+        frame.getContentPane().setBackground(Color.cyan);
 
     }
 }
