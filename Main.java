@@ -65,14 +65,14 @@ public class Main{
         frame.add(b1);
         frame.add(b2);
 
-        ImageIcon icon  = new ImageIcon("img/icon/jpeg");
+        ImageIcon icon = new ImageIcon("icon.png");
 
         frame.setIconImage(icon.getImage());
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(350,250);
         frame.setLayout(null);
         frame.setVisible(true);
-        frame.getContentPane().setBackground(Color.cyan);
+        frame.getContentPane().setBackground(new Color(116,59,213));
 
     }
 }
