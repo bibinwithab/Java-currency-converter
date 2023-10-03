@@ -6,6 +6,10 @@ A small repo for a java currency converter project and a space to learn java swi
 > This program runs a GUI that converts INR to USD and vice-versa 
 
 ## How to run
+>Compile main class
+```
+javac Main.java
+```
 >Run this comment to run the main class
 ```
 java Main
